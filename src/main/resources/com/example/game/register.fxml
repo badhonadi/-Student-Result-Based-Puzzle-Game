@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.effect.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.game.RegisterController"
+            prefWidth="700" prefHeight="480"
+            style="-fx-background-color: linear-gradient(to bottom right, #243B55, #141E30);">
+
+    <!-- ✨ Glass-like Card -->
+    <VBox alignment="CENTER" spacing="15" prefWidth="380" prefHeight="400"
+          layoutX="160" layoutY="40"
+          style="-fx-background-color: rgba(255,255,255,0.12);
+                 -fx-background-radius: 20;
+                 -fx-padding: 25;
+                 -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 12, 0.2, 2, 2);">
+
+        <!-- Title -->
+        <Label text="📝 Student Registration" textFill="white">
+            <font>
+                <Font name="System Bold" size="22"/>
+            </font>
+        </Label>
+
+        <Separator style="-fx-background-color: #4FC3F7; -fx-padding: 0 10 0 10;"/>
+
+        <!-- Fields -->
+        <TextField fx:id="nameField" promptText="Enter your full name"
+                   prefWidth="250"
+                   style="-fx-background-radius: 10; -fx-padding: 10; -fx-background-color: rgba(255,255,255,0.8);"/>
+        <TextField fx:id="emailField" promptText="Enter your email"
+                   prefWidth="250"
+                   style="-fx-background-radius: 10; -fx-padding: 10; -fx-background-color: rgba(255,255,255,0.8);"/>
+        <PasswordField fx:id="passwordField" promptText="Enter your password"
+                       prefWidth="250"
+                       style="-fx-background-radius: 10; -fx-padding: 10; -fx-background-color: rgba(255,255,255,0.8);"/>
+        <DatePicker fx:id="birthdayPicker" promptText="Select your birth date"
+                    prefWidth="250"
+                    style="-fx-background-radius: 10; -fx-padding: 5;"/>
+
+        <!-- Message label -->
+        <Label fx:id="messageLabel" textFill="#FFEE58">
+            <font>
+                <Font size="14"/>
+            </font>
+        </Label>
+
+        <!-- Register button -->
+        <Button text="Register" onAction="#register"
+                prefWidth="150" prefHeight="40"
+                style="-fx-background-color: linear-gradient(to right, #00C853, #B2FF59);
+                       -fx-background-radius: 15;
+                       -fx-text-fill: #1B1B1B;
+                       -fx-font-weight: bold;
+                       -fx-font-size: 14;">
+            <effect>
+                <DropShadow color="#00C853" radius="10"/>
+            </effect>
+        </Button>
+
+        <!-- Login link -->
+        <Hyperlink text="Already have an account? Login" onAction="#goToLogin"
+                   textFill="#4FC3F7" underline="false">
+            <font>
+                <Font size="13"/>
+            </font>
+        </Hyperlink>
+    </VBox>
+</AnchorPane>

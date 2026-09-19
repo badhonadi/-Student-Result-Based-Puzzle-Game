@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/24.0.1"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.game.ResultController"
+            prefWidth="900" prefHeight="600"
+            style="-fx-background-color: linear-gradient(to bottom right, #0f2027, #203a43, #2c5364);">
+
+    <Label text="🏆 Student Results"
+           layoutX="320" layoutY="25"
+           style="-fx-font-size: 30px; -fx-font-weight: bold; -fx-text-fill: linear-gradient(to right, #FF9800, #FFC107);"/>
+
+    <TableView fx:id="resultTable" layoutX="70" layoutY="90" prefWidth="760" prefHeight="400"
+               style="-fx-background-color: rgba(255,255,255,0.1); -fx-background-radius: 15;">
+
+        <columns>
+            <TableColumn fx:id="courseCol" text="Course" prefWidth="150"/>
+            <TableColumn fx:id="nameCol" text="Name" prefWidth="150"/>
+            <TableColumn fx:id="idCol" text="Student ID" prefWidth="150"/>
+            <TableColumn fx:id="gradeCol" text="Grade" prefWidth="150"/>
+            <TableColumn fx:id="cgpaCol" text="CGPA" prefWidth="150"/>
+        </columns>
+    </TableView>
+
+    <Button text="🔙 Back to Menu" layoutX="380" layoutY="520"
+            onAction="#handleBackToMenu"
+            style="-fx-background-color: rgba(0,0,0,0.3);
+                   -fx-text-fill: cyan; -fx-font-size: 14;
+                   -fx-background-radius: 10; -fx-border-color: cyan;
+                   -fx-border-radius: 10; -fx-border-width: 2;"/>
+</AnchorPane>

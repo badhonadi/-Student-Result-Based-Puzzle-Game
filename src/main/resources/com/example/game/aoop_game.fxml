@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.game.AoopGameController"
+            prefWidth="800" prefHeight="600" style="-fx-background-color: #1e1e2f;">
+    <children>
+        <VBox alignment="CENTER" layoutX="50" layoutY="30" prefWidth="700" spacing="15">
+
+            <Label fx:id="titleLabel" style="-fx-font-size: 22;" />
+
+            <Label fx:id="timerLabel" style="-fx-font-size: 18;" text="⏳ Time: 05:00" textFill="#e41111" />
+            <Label fx:id="coinLabel" style="-fx-font-size: 18;" text="💰 Coins: 0" textFill="#e10808" />
+
+            <Label fx:id="puzzleLabel" style="-fx-font-size: 20; -fx-font-weight: bold;" wrapText="true" />
+
+            <Label fx:id="feedbackLabel" style="-fx-font-size: 16;" />
+
+            <!-- MCQ buttons -->
+            <HBox fx:id="mcqBox" alignment="CENTER" spacing="20">
+                <Button fx:id="optionA" onAction="#handleMCQ" prefHeight="45" prefWidth="140" text="A" />
+                <Button fx:id="optionB" onAction="#handleMCQ" prefHeight="45" prefWidth="140" text="B" />
+                <Button fx:id="optionC" onAction="#handleMCQ" prefHeight="45" prefWidth="140" text="C" />
+            </HBox>
+
+            <!-- True/False buttons -->
+            <HBox fx:id="tfBox" alignment="CENTER" spacing="20">
+                <Button fx:id="trueBtn" onAction="#handleTrueBtn" prefHeight="45" prefWidth="120" text="TRUE" />
+                <Button fx:id="falseBtn" onAction="#handleFalseBtn" prefHeight="45" prefWidth="120" text="FALSE" />
+            </HBox>
+
+            <Label fx:id="gradeLabel" style="-fx-font-size: 18;" />
+
+            <Button fx:id="" onAction="#handleBack" prefWidth="120" text="Back to Menu" />
+        </VBox>
+    </children>
+</AnchorPane>

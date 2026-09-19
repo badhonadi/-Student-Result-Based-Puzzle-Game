@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.game.ProgressController"
+            prefWidth="700" prefHeight="500"
+            style="-fx-background-color: linear-gradient(to bottom right, #243B55, #141E30);">
+
+    <!-- Title -->
+    <Label text="📊 Progress Report"
+           layoutX="250" layoutY="30"
+           font="bold 24px 'Arial'"
+           textFill="white" />
+
+    <!-- ICS Section -->
+    <Label text="Trimester 1: ICS Puzzle"
+           layoutX="60" layoutY="90"
+           textFill="white"
+           font="bold 18px 'Arial'" />
+    <Label fx:id="icsGradeLabel"
+           layoutX="400" layoutY="90"
+           textFill="yellow"
+           font="bold 18px 'Arial'" />
+
+    <!-- SPL Section -->
+    <Label text="Trimester 2: SPL Puzzle"
+           layoutX="60" layoutY="140"
+           textFill="white"
+           font="bold 18px 'Arial'" />
+    <Label fx:id="splGradeLabel"
+           layoutX="400" layoutY="140"
+           textFill="yellow"
+           font="bold 18px 'Arial'" />
+
+    <!-- OOP Section -->
+    <Label text="Trimester 3: OOP Puzzle"
+           layoutX="60" layoutY="190"
+           textFill="white"
+           font="bold 18px 'Arial'" />
+    <Label fx:id="oopGradeLabel"
+           layoutX="400" layoutY="190"
+           textFill="yellow"
+           font="bold 18px 'Arial'" />
+
+    <!-- AOOP Section -->
+    <Label text="Trimester 4: AOOP Puzzle"
+           layoutX="60" layoutY="240"
+           textFill="white"
+           font="bold 18px 'Arial'" />
+    <Label fx:id="aoopGradeLabel"
+           layoutX="400" layoutY="240"
+           textFill="yellow"
+           font="bold 18px 'Arial'" />
+
+    <!-- CGPA Section -->
+    <Label text="Overall CGPA"
+           layoutX="60" layoutY="300"
+           textFill="white"
+           font="bold 20px 'Arial'" />
+    <Label fx:id="cgpaLabel"
+           layoutX="400" layoutY="300"
+           textFill="lime"
+           font="bold 20px 'Arial'" />
+
+    <!-- Status Message -->
+    <Label fx:id="statusLabel"
+           layoutX="60" layoutY="350"
+           prefWidth="580"
+           wrapText="true"
+           textFill="white"
+           font="16px 'Arial'" />
+
+    <!-- Back Button -->
+    <Button text="⬅ Back to Menu"
+            layoutX="250" layoutY="420"
+            prefWidth="200" prefHeight="40"
+            onAction="#handleBack"
+            style="-fx-background-color: #00BFA6; -fx-text-fill: white; -fx-font-size: 14px; -fx-font-weight: bold;"/>
+
+</AnchorPane>

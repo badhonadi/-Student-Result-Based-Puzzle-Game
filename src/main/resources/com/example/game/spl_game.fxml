@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.game.SplGameController"
+            style="-fx-background-color: linear-gradient(to bottom, #1c1c1c, #2b2b2b);">
+    <children>
+        <VBox spacing="15" alignment="CENTER" layoutX="50" layoutY="30" prefWidth="700">
+            <Label fx:id="titleLabel" style="-fx-font-size: 22; -fx-text-fill: white;" />
+            <Label fx:id="timerLabel" style="-fx-font-size: 18; -fx-text-fill: #e41111;" text="⏳ Time: 05:00"/>
+            <Label fx:id="coinLabel" style="-fx-font-size: 18; -fx-text-fill: #ff5555;" text="💰 Coins: 0"/>
+
+            <Label fx:id="puzzleLabel" wrapText="true"
+                   style="-fx-font-size: 22; -fx-font-weight: bold; -fx-text-fill: #ffde59;" />
+
+            <Label fx:id="feedbackLabel" style="-fx-font-size: 16; -fx-text-fill: white;" />
+
+            <VBox spacing="12" alignment="CENTER">
+                <Button fx:id="optionA" text="A" onAction="#handleOptionA"
+                        prefWidth="220" prefHeight="50"
+                        style="-fx-background-color: #3cba54; -fx-text-fill: white; -fx-font-size: 18; -fx-font-weight: bold;"/>
+                <Button fx:id="optionB" text="B" onAction="#handleOptionB"
+                        prefWidth="220" prefHeight="50"
+                        style="-fx-background-color: #db3236; -fx-text-fill: white; -fx-font-size: 18; -fx-font-weight: bold;"/>
+                <Button fx:id="optionC" text="C" onAction="#handleOptionC"
+                        prefWidth="220" prefHeight="50"
+                        style="-fx-background-color: #f4c20d; -fx-text-fill: black; -fx-font-size: 18; -fx-font-weight: bold;"/>
+            </VBox>
+
+            <Label fx:id="gradeLabel" style="-fx-font-size: 18; -fx-text-fill: white;" />
+
+            <Button text="Back" onAction="#handleBack" prefWidth="120"
+                    style="-fx-background-color: #4a4a4a; -fx-text-fill: white; -fx-font-size: 16;"/>
+        </VBox>
+    </children>
+</AnchorPane>

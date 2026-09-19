@@ -1,0 +1,134 @@
+Level 1 | Grade: 4.0 | Time: 2025-10-05T19:41:51.725797800
+Level 1 | Grade: 3.39 | Time: 2025-10-05T22:46:40.060206800
+Level 1 | Grade: 4.0 | Time: 2025-10-05T22:54:13.074752700
+All Levels Completed | Grade: 4.0 | Time: 2025-10-05T22:58:46.321194100
+All Levels Completed | Grade: 4.0 | Time: 2025-10-06T00:32:32.740289100
+All Levels Completed | Grade: 4.0 | Time: 2025-10-06T00:34:42.780557300
+Trimester-1 | Grade: 4.00 | Time: 2025-10-06T00:51:06.387419200
+UNLOCK: Trimester-2
+Trimester-1 | Grade: 4.00 | Time: 2025-10-07T21:39:58.738637700
+UNLOCK: Trimester-2
+Trimester 2 | Grade: 3.1 | CGPA: 3.55 | Time: 2025-10-07T21:43:55.476340500
+Trimester-1 | Grade: 4.00 | Time: 2025-10-07T22:29:58.155239
+UNLOCK: Trimester-2
+Trimester-1 | Grade: 4.00 | Time: 2025-10-08T14:28:32.472817700
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.60 | CGPA: 3.80 | Time: 2025-10-08T15:16:18.212733500
+Trimester-1 | Grade: 4.00 | Time: 2025-10-08T20:32:50.675177500
+UNLOCK: Trimester-2
+Trimester-3 | Grade: 2.70 | CGPA: 3.43 | Time: 2025-10-09T00:28:26.975891400
+Trimester-1 | Grade: 4.00 | Time: 2025-10-14T21:27:21.435173400
+UNLOCK: Trimester-2
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-14T21:44:35.884513600
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-15T01:29:37.934835100
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 2.88 | CGPA: 3.44 | Time: 2025-10-15T01:31:56.379556800
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-15T09:24:44.522152700
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.08 | CGPA: 4.00 | Time: 2025-10-15T09:26:38.564811900
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-15T09:39:26.323288100
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.80 | CGPA: 4.00 | Time: 2025-10-15T09:41:11.682284600
+UNLOCK: Trimester-3
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-15T09:56:28.334113800
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 2.00 | CGPA: 4.00 | Time: 2025-10-15T10:01:57.910134800
+UNLOCK: Trimester-3
+Trimester-2 | Grade: 2.88 | CGPA: 3.44 | Time: 2025-10-15T11:34:59.934404100
+UNLOCK: Trimester-3
+Trimester-3 | Grade: 2.70 | CGPA: 3.19 | Time: 2025-10-15T11:36:33.840719900
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-15T11:53:33.679115200
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 1.44 | CGPA: 2.72 | Time: 2025-10-15T11:55:40.267232900
+Trimester-2 | Grade: 2.88 | CGPA: 3.44 | Time: 2025-10-15T11:57:35.571349900
+UNLOCK: Trimester-3
+Trimester-4 | Grade: 2.70 | CGPA: 3.19 | Time: 2025-10-15T11:58:40.606665400
+UNLOCK: Trimester-5
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-18T22:12:52.742809800
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.20 | CGPA: 3.60 | Time: 2025-10-18T22:14:12.087951700
+UNLOCK: Trimester-3
+Trimester-1 | Grade: 4.00 | CGPA: 3.60 | Time: 2025-10-19T12:48:15.187048600
+UNLOCK: Trimester-2
+Trimester-1 | Grade: 3.75 | CGPA: 3.75 | Time: 2025-10-19T14:47:36.887799100
+UNLOCK: Trimester-2
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-19T20:15:46.451580300
+UNLOCK: Trimester-2
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-19T20:43:34.821763500
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 0.00 | CGPA: 4.00 | Time: 2025-10-19T21:22:27.076850500
+Trimester-2 | Grade: 0.55 | CGPA: 2.28 | Time: 2025-10-19T21:24:40.343100900
+Trimester-2 | Grade: 0.00 | CGPA: 3.75 | Time: 2025-10-19T21:42:35.513469900
+Trimester-2 | Grade: 3.06 | CGPA: 3.40 | Time: 2025-10-19T21:56:46.210110100
+UNLOCK: Trimester-3
+Trimester-4 | Grade: 3.15 | CGPA: 3.32 | Time: 2025-10-19T22:06:52.042862600
+UNLOCK: Trimester-5
+Trimester-4 | Grade: 3.50 | CGPA: 3.44 | Time: 2025-10-19T22:07:57.190243
+UNLOCK: Trimester-5
+Trimester-4 | Grade: 2.70 | Total CGPA: 3.25 | Time: 2025-10-19T22:09:15.887614800
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-19T22:27:30.825606900
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 2.78 | CGPA: 3.39 | Time: 2025-10-19T22:29:46.630494400
+UNLOCK: Trimester-3
+Trimester-4 | Grade: 3.50 | CGPA: 3.43 | Time: 2025-10-19T22:30:40.000756
+UNLOCK: Trimester-5
+Trimester-4 | Grade: 4.00 | Total CGPA: 3.57 | Time: 2025-10-19T22:31:59.535418800
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-19T22:49:26.867302
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.06 | CGPA: 3.53 | Time: 2025-10-19T22:51:15.561699
+UNLOCK: Trimester-3
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-19T23:01:56.401857700
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.67 | CGPA: 3.84 | Time: 2025-10-19T23:03:54.717565500
+UNLOCK: Trimester-3
+Trimester-2 | Grade: 3.33 | CGPA: 3.67 | Time: 2025-10-20T00:18:51.582015300
+UNLOCK: Trimester-3
+Trimester-1 | Grade: 4.00 | CGPA: 3.67 | Time: 2025-10-20T01:25:56.561351100
+UNLOCK: Trimester-2
+Trimester-2 | Grade: 3.33 | CGPA: 3.67 | Time: 2025-10-20T01:27:40.936017300
+UNLOCK: Trimester-3
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 500 | Time: 2025-10-20T08:36:26.638479500
+Trimester-2 | Grade: 1.67 | CGPA: 2.83 | Time: 2025-10-20T08:39:00.327807500
+Trimester-2 | Grade: 4.00 | CGPA: 4.00 | Time: 2025-10-20T08:40:28.857946800
+UNLOCK: Trimester-3
+Trimester-4 | Grade: 3.50 | CGPA: 3.83 | Time: 2025-10-20T08:41:17.241178
+UNLOCK: Trimester-5
+Trimester-4 | Grade: 4.00 | Total CGPA: 3.88 | Time: 2025-10-20T08:42:06.102147300
+Trimester-4 | Grade: 4.00 | Total CGPA: 3.88 | Time: 2025-10-20T08:54:25.081413500
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 450 | Time: 2025-10-20T08:58:33.958311100
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 500 | Time: 2025-10-20T10:00:26.333116500
+Trimester-2 | Grade: 2.45 | CGPA: 3.22 | Time: 2025-10-20T10:02:04.955399800
+UNLOCK: Trimester-3
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 500 | Time: 2025-10-20T10:20:58.850487
+Trimester-2 | Grade: 2.67 | CGPA: 3.33 | Time: 2025-10-20T10:22:33.412217400
+UNLOCK: Trimester-3
+Trimester-4 | Grade: 3.50 | CGPA: 3.39 | Time: 2025-10-20T10:23:37.669821100
+UNLOCK: Trimester-5
+Trimester-4 | Grade: 4.00 | Total CGPA: 3.54 | Time: 2025-10-20T10:24:16.948722800
+Trimester-1 | Grade: 3.75 | CGPA: 3.75 | Coins: 500 | Time: 2025-10-20T14:19:43.741180300
+Trimester-1 | Grade: 4.00 | CGPA: 3.88 | Coins: 130 | Time: 2025-10-20T19:48:14.496391200
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 480 | Time: 2025-10-20T19:50:59.306202600
+Trimester-1 | Grade: 3.75 | CGPA: 3.75 | Coins: 440 | Time: 2025-10-20T20:49:30.120892900
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 500 | Time: 2025-10-21T00:34:16.483260
+Trimester-1 | Grade: 3.25 | CGPA: 3.25 | Coins: 480 | Time: 2025-10-21T09:53:24.855852100
+Trimester-3 | Grade: 2.57 | CGPA: 3.27 | Coins: 70 | Time: 2025-10-21T09:56:48.537655600
+Trimester-4 | Grade: 1.87 | CGPA: 2.92 | Coins: 520 | Time: 2025-10-21T09:59:32.887750
+Trimester-1 | Grade: 4.00 | CGPA: 4.00 | Coins: 500 | Time: 2025-10-21T10:08:24.533510800
+Trimester-2 | Grade: 4.00 | CGPA: 4.00 | Coins: 510 | Time: 2025-10-21T10:09:42.003347200
+Trimester-1 | Grade: 3.25 | CGPA: 3.25 | Coins: 480 | Time: 2025-10-21T11:26:55.364779
+Trimester-2 | Grade: 3.50 | CGPA: 3.38 | Coins: 470 | Time: 2025-10-21T11:27:24.053543500
+Trimester-1 | Grade: 3.75 | CGPA: 3.63 | Coins: 410 | Time: 2025-10-21T11:53:28.333169100
+Trimester-1 | Grade: 3.75 | CGPA: 3.75 | Coins: 490 | Time: 2025-10-21T14:35:22.015966900
+Trimester-2 | Grade: 3.75 | CGPA: 3.75 | Coins: 490 | Time: 2025-10-21T14:35:59.618027600
+Trimester-1 | Grade: 3.25 | CGPA: 3.25 | Coins: 480 | Time: 2025-10-21T14:38:25.299148400
+Trimester-2 | Grade: 3.50 | CGPA: 3.38 | Coins: 470 | Time: 2025-10-21T14:39:00.183252100
+Trimester-3 | Grade: 2.42 | CGPA: 3.06 | Coins: 50 | Time: 2025-10-21T14:39:50.971823100
+Trimester-1 | Grade: 3.25 | CGPA: 2.88 | Coins: 340 | Time: 2025-10-21T14:59:33.813186100
+Trimester-2 | Grade: 3.75 | CGPA: 3.50 | Coins: 290 | Time: 2025-10-21T15:00:36.583304700
+Trimester-3 | Grade: 0.00 | CGPA: 2.33 | Coins: 0 | Time: 2025-10-21T15:04:59.910931
+Trimester-1 | Grade: 3.75 | CGPA: 3.75 | Coins: 490 | Time: 2025-10-22T12:42:01.021159
+Trimester-2 | Grade: 3.25 | CGPA: 3.50 | Coins: 470 | Time: 2025-10-22T12:42:58.252725
+Trimester-3 | Grade: 2.07 | CGPA: 3.02 | Coins: 40 | Time: 2025-10-22T12:43:31.006464300
+Trimester-4 | Grade: 2.56 | CGPA: 2.91 | Coins: 460 | Time: 2025-10-22T12:44:11.193542700
+Trimester-5 | Grade: 1.14 | CGPA: 2.56 | Time: 2025-10-22T12:44:57.269858
+Trimester-5 | Grade: 1.14 | CGPA: 1.14 | Time: 2025-10-22T12:44:57.284857

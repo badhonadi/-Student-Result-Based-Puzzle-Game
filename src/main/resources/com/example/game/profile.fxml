@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.example.game.ProfileController"
+            prefWidth="450" prefHeight="400"
+            styleClass="profile-root">
+
+    <children>
+
+        <!-- Background Card -->
+        <VBox spacing="15" alignment="CENTER" layoutX="25" layoutY="25"
+              prefWidth="400" prefHeight="350" styleClass="profile-card">
+
+            <ImageView fx:id="profileImage"
+                       fitHeight="100" fitWidth="100"
+                       preserveRatio="true"
+                       styleClass="profile-photo"/>
+
+            <Label fx:id="nameLabel" styleClass="profile-name"/>
+            <Label fx:id="emailLabel" styleClass="profile-info"/>
+            <Label fx:id="birthdayLabel" styleClass="profile-info"/>
+            <Label fx:id="studentIdLabel" styleClass="profile-info"/>
+            <Label fx:id="coinsLabel" styleClass="profile-info"/>
+
+            <Button text="Close" onAction="#handleClose" styleClass="close-btn"/>
+        </VBox>
+    </children>
+</AnchorPane>

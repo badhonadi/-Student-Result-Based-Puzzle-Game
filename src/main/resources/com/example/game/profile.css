@@ -1,0 +1,40 @@
+.profile-root {
+    -fx-background-color: transparent;
+}
+
+.profile-card {
+    -fx-background-color: linear-gradient(to bottom right, #243B55, #141E30);
+    -fx-background-radius: 20;
+    -fx-padding: 25;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.4), 10, 0, 0, 3);
+}
+
+.profile-photo {
+    -fx-background-radius: 50%;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.3), 8, 0, 0, 2);
+}
+
+.profile-name {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #FFD700;
+}
+
+.profile-info {
+    -fx-font-size: 14px;
+    -fx-text-fill: #FFFFFF;
+}
+
+.close-btn {
+    -fx-background-color: #F44336;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-background-radius: 10;
+    -fx-padding: 5 15;
+}
+
+.close-btn:hover {
+    -fx-opacity: 0.8;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.05;
+}

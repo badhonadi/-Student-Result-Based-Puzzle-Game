@@ -1,0 +1,5 @@
+#Progress for rfft
+#Sun Oct 19 22:07:57 GMT+06:00 2025
+ICS=3.75
+OOP=3.5
+SPL=3.0583333333333336
